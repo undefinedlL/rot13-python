@@ -1,6 +1,6 @@
 import pyperclip
 import string
-import re
+
 
 uppercase_letters = string.ascii_uppercase
 lowercase_letters = string.ascii_lowercase
